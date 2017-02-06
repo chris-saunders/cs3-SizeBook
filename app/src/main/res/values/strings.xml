@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">cs3-SizeBook</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_button">Add New Entry</string>
+    <string name="WEIGHT">.05</string>
+</resources>
